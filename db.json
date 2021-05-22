@@ -17,6 +17,33 @@
             "avatar": "https://klike.net/uploads/posts/2019-03/1551511801_1.jpg",
             "email": "petrov@mail.ru",
             "phone": "+7-999-123-45-67" 
+        },
+        {
+            "id": "3",
+            "lastname": "Зайцев",
+            "firstname": "Альберт",
+            "middlename": "Васильевич",
+            "avatar": "https://tiktok-wiki.ru/wp-content/uploads/2020/05/avatarki-dlya-tik-toka1.jpg",
+            "email": "zaytsev@mail.ru",
+            "phone": "+7-678-987-45-23" 
+        },
+        {
+            "id": "4",
+            "lastname": "Сидоров",
+            "firstname": "Сидор",
+            "middlename": "Сидорович",
+            "avatar": "https://avatarko.ru/img/kartinka/2/Gubka_Bob.jpg",
+            "email": "sidorov@mail.ru",
+            "phone": "+7-567-345-41-23" 
+        },
+        {
+            "id": "5",
+            "lastname": "Васильев",
+            "firstname": "Василий",
+            "middlename": "Васильевич",
+            "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPwK0vjAT-oReE-ZKem3kMJAGC7yOkGZvpIw&usqp=CAU",
+            "email": "vasiliev@mail.ru",
+            "phone": "+7-444-444-42-67" 
         }
     ]
 }
