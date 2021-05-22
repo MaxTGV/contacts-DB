@@ -5,7 +5,7 @@
             "lastname": "Ivanov",
             "firstname": "Ivan",
             "middlename": "Ivanovich",
-            "avatar": "none",
+            "avatar": "https://i.pinimg.com/236x/74/05/5f/74055f83bfbdc20fdc1f9d1fc116fd26.jpg",
             "email": "ivanov@mail.ru",
             "phone": "+7-908-111-12-13" 
         },
@@ -14,7 +14,7 @@
             "lastname": "Petrov",
             "firstname": "Petr",
             "middlename": "Petrovich",
-            "avatar": "none",
+            "avatar": "https://klike.net/uploads/posts/2019-03/1551511801_1.jpg",
             "email": "petrov@mail.ru",
             "phone": "+7-999-123-45-67" 
         }
